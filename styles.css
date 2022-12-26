@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&display=swap');
+
+        body {
+            font-family: 'Berkshire Swash', cursive;
+        }
+        .container {
+            text-align: center;
+            color: white;
+            padding: 1rem ;
+            background-color:indigo;
+        }
+        
+        main {
+            padding: 1rem;
+            max-width: 600px;
+            margin: auto;
+
+        }
+       #input {
+        display: block;
+        width:80% ;
+        padding:2rem;
+        margin: 1rem 0rem;
+        margin-bottom: 1.5rem;
+        font-family: 'Berkshire Swash', cursive;
+       } 
+       #btn-translator {
+        
+        padding: 1rem;
+        margin :2px 0rem;
+        display: block;
+        background-color:indigo;
+        font-family: 'Berkshire Swash', cursive;
+        color: white;
+        border: none;
+       }
+       #output {
+        width:80% ;
+        padding:2rem;
+        margin-bottom: 1rem;
+        border: 1px solid black;
+       }
